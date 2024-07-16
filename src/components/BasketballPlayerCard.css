@@ -64,7 +64,7 @@ body {
 
 @media (max-width: 600px) {
   .player-card {
-    padding: 10px;
+    padding: 9px;
   }
 
   .player-name {

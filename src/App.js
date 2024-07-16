@@ -9,7 +9,7 @@ function App() {
       name="Sunil chhetri"
       image= {photo_1}
       position="Forward"
-      stats={{ pointsPerGame: 12.4, assistsPerGame: 5, reboundsPerGame: 15 }}/>
+      stats={{ pointsPerGame: 12.4, assistsPerGame: 5, reboundPerGame: 15 }}/>
     </div>
   );
 }
